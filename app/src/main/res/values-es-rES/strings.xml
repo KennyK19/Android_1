@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School v1.0</string>
+    <string name="strN1">"Desempeño 1 "</string>
+    <string name="strN2">Desempeño 2</string>
+    <string name="strCalc">Calcular</string>
+    <string name="stM">Promedio</string>
+    <string name="strSit">Situación</string>
+    <string name="strSitAp">Aprobado</string>
+    <string name="strSitRc">Recuperacion</string>
+    <string name="strSitRp">Desaprobado</string>
+    <string name="srtZero">0</string>
+    <string name="strMsgAp">Felicidades</string>
+    <string name="strMsgRp">Por favor, inténtalo de nuevo el próximo año.</string>
+    <string name="strMsgRc">" Estudia más !"</string>
+    <string name="msgErro">¡Escriba un número!</string>
+</resources>
